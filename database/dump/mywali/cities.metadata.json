@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"mywali.cities"},{"v":{"$numberInt":"2"},"unique":true,"key":{"cityName":{"$numberInt":"1"}},"name":"cityName_1","ns":"mywali.cities","background":true}],"uuid":"81e17e1edc30468491cd75b1f3152c14","collectionName":"cities","type":"collection"}

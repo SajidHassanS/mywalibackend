@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"mywali.chatrequests"}],"uuid":"f3b3489a0522411ab43a93e8922a78dc","collectionName":"chatrequests","type":"collection"}

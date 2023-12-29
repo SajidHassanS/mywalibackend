@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"mywali.ethnicities"},{"v":{"$numberInt":"2"},"unique":true,"key":{"ethnicityName":{"$numberInt":"1"}},"name":"ethnicityName_1","ns":"mywali.ethnicities","background":true}],"uuid":"343a765926bf43e197a92e3cbdcfbbaf","collectionName":"ethnicities","type":"collection"}

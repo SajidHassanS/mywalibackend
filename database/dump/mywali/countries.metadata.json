@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"mywali.countries"},{"v":{"$numberInt":"2"},"unique":true,"key":{"countryName":{"$numberInt":"1"}},"name":"countryName_1","ns":"mywali.countries","background":true}],"uuid":"97a115d7847d4867946146d8faf86258","collectionName":"countries","type":"collection"}
